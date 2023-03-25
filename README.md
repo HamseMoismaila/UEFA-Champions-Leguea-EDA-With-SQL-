@@ -82,8 +82,9 @@ this following query and result for that answer
 
 ![More than Hat trick](https://user-images.githubusercontent.com/122876767/227692457-41141832-5167-49f3-bfb4-6f1c731f86fc.PNG)
 
-in this above query I combine(join) with matches table with the two other tables which are Goals and player table and turns there are 7 players who score a hatrick and more including 
-Kyllian Mbappea , and Robert lewandowski and others.
+
+In the above query, I combine (join) the matches table with the two other tables, which are the goals and player tables, because there are 7 players who score a hatrick or more during the game, including
+Kyllian Mbappe, Robert Lewandowski, Mane, and others
 
 
 ### Summary 
